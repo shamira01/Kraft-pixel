@@ -1,0 +1,13 @@
+AI Usage Declaration
+
+Name: Shamira Anjum B
+Date: 3/08/2025
+Assignment: About Us page
+
+I used AI tools (ChatGPT/Gemini/etc.) during this assignment only for the following:
+-  Clarifying syntax for CSS Flexbox.
+
+All HTML and CSS code was written and structured by me without any direct copy-paste from AI. 
+No JavaScript was used in this assignment.
+
+I confirm that no part of this submission is fully dependent on AI and that I have adhered to the assignment guidelines.
